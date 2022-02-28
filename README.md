@@ -1,10 +1,10 @@
 <h1 align='center'>🔬Portfólio de Data Science🔬</h1>
 
 Seja bem-vindo ao meu portfólio de projetos de Data Science. Aqui, irei documentar meu aprendizado relacionado a:
-- Machine Learning e seus algoritmos como: Linear Regression, Support Vector Machine(SVM), K-Nearest Neighbors(KNN)
-- Análise exploratória de dados
-- Depuração e limpeza de dados
-- Montagem e leitura de gráficos
+- 💻 Machine Learning e seus algoritmos como: Linear Regression, Support Vector Machine(SVM), K-Nearest Neighbors(KNN)
+- 🔍 Análise exploratória de dados
+- 📝 Depuração e limpeza de dados
+- 📊 Montagem e leitura de gráficos
 
 Darei meus insights nos projetos sobre o assunto que estarei tratando.
 
