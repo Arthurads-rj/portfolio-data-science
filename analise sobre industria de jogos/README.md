@@ -1,3 +1,5 @@
+<h1 align='center'>🎮 Análise de Resenha de Jogos 🎮</h1>
+
 Nesse projeto sobre jogos, fiz uma breve análise sobre quais foram os melhores e piores jogos de consoles como Nintendo Switch, PS4 e Xbox One.
 Além da análise, fiz um pequeno tratamento de dados para facilitar minha analise nesse projeto.
 
